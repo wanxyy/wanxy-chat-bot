@@ -1,1 +1,1 @@
-# wanxy-chat-bot
+İşinize yarayacağını düşündüğüm ufak bir chat bot altyapısı herhangi bir hata ile karşılaşırsanız bana discord adresim üzerinden ulaşabilirsiniz. Yakın zamanda guard, moderasyon vb. botlar paylaşacağım takipte kalın <3
