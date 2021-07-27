@@ -1,0 +1,14 @@
+{
+  "name": "wanxy",
+  "version": "0.0.1",
+  "description": "",
+  "main": "wanxy.js",
+  "scripts": {
+    "test": "node wanxy.js"
+  },
+  "author": "Wanxy",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
